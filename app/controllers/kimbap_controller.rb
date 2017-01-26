@@ -1,0 +1,2 @@
+class KimbapController < ApplicationController
+end
